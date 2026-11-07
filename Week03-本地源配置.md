@@ -54,3 +54,6 @@ EOF
 9.查看结果
 tree /data
 <img width="341" height="120" alt="image" src="https://github.com/user-attachments/assets/6fbc804c-f9ac-4e4b-aabc-0fbd52f494e0" />
+
+“实验总结”
+*“通过本次配置，不仅解决了离线服务器安装软件的问题，还成功补全了第二周因缺乏软件源导致无法安装 `tree` 工具的遗留任务。”*
